@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    margin-left: 25%;
+}
+table{
+    border: 5px solid black;
+    border-collapse: collapse;
+    border-color: rgb(63, 3, 63);
+    border-top-left-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+th{
+   background-color: rgb(21, 2, 21);
+   color: white;
+   padding: 10px;
+}
+td{
+   padding: 20px;
+}
+tr{
+   background-color: white;
+}
+.a{
+    background-color: antiquewhite;
+}
